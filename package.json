@@ -1,0 +1,25 @@
+{
+  "name": "circleprogress",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "echarts": "^5.4.2",
+    "element-plus": "^2.3.6",
+    "node-sass": "^9.0.0",
+    "sass": "^1.63.3",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "sass-loader": "^13.3.2",
+    "scss": "^0.2.4",
+    "unplugin-element-plus": "^0.7.1",
+    "vite": "^4.3.9"
+  }
+}
